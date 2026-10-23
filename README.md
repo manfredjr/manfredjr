@@ -98,3 +98,10 @@ Aqui ficam as ferramentas da família MAP, experimentos e material técnico que 
 - [WickedBotz](https://wickedbotz.com.br)
 - [Summit Robótica](https://www.summitrobotica.com.br)
 - [Escalada.dev](https://escalada.dev)
+
+## Redes sociais
+
+- [LinkedIn](https://www.linkedin.com/in/manfred-heil-junior-a4aa682a/)
+- [Instagram](https://www.instagram.com/manfredhjr/)
+- [YouTube](https://www.youtube.com/@manfredjr)
+- [Facebook](https://www.facebook.com/manfredjr)
