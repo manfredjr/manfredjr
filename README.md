@@ -101,7 +101,7 @@ Aqui ficam as ferramentas da família MAP, experimentos e material técnico que 
 
 ## Redes sociais
 
-- [LinkedIn](https://www.linkedin.com/in/manfred-heil-junior-a4aa682a/)
+- [LinkedIn](https://www.linkedin.com/in/manfredjr/)
 - [Instagram](https://www.instagram.com/manfredhjr/)
 - [YouTube](https://www.youtube.com/@manfredjr)
 - [Facebook](https://www.facebook.com/manfredjr)
