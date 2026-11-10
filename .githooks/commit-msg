@@ -1,0 +1,22 @@
+#!/bin/sh
+# Regra matriz 1: recusa credito de ferramenta de IA na mensagem de commit.
+# Copia do gancho versionado do ChamaAula (08/11/2026). So as grafias exatas CLAUDE.md e
+# .claude/ nao contam como credito. A conferencia e do arquivo inteiro, e depois repassa
+# a trava global, que faz tambem a conferencia de texto da regra 3.
+credito='co-auth''ored-by|gene''rated with'
+if sed -e 's/CLAUDE\.md//g' -e 's#\.claude/##g' "$1" \
+   | grep -qiE "$credito|gerado com|claude|anthropic"; then
+  echo "COMMIT RECUSADO: a mensagem credita ferramenta de IA (rodape de coautoria, 'Gerado com' ou o nome da ferramenta)." >&2
+  echo "Regra matriz 1: autor Manfred Heil Junior, titular MANFRED TECNOLOGIA LTDA. Tire essas linhas e refaca o commit." >&2
+  echo "Commit com -v cujo diff cite a ferramenta tambem e recusado: refaca sem o -v." >&2
+  exit 1
+fi
+
+# Repasse a trava global, no modelo da decisao de 28/10/2026: ela repete a conferencia
+# acima e faz a da regra 3, nivel 1, com o verificar_ia.py da skill humanizar-ptbr.
+global="C:/COWORK/.githooks-mt/commit-msg"
+if [ -f "$global" ]; then
+  exec sh "$global" "$@"
+fi
+echo "Aviso: a trava global $global nao foi encontrada, e a conferencia de texto da regra 3 nao rodou." >&2
+exit 0
