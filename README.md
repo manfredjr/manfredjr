@@ -47,7 +47,7 @@ A família MAP saiu do trabalho de campo: são as ferramentas que uso no suporte
 | [Escalada.dev](https://escalada.dev) | Ensino de programação, robótica e Internet das Coisas, com material de Fundamentos, Estrutura de Dados e IoT e as [dinâmicas](https://escalada.dev/dinamicas/) que vieram do JogosAula | Site no ar; plataforma de cursos em desenvolvimento |
 | [Simulador MT](https://simulador.escalada.dev) | Simuladores de robótica no navegador: seguidor de linha, sumô e trekking, com Arduino emulado e programação em blocos | No ar |
 | [Oficina de Combate](https://simulador.escalada.dev/combate/) | Simulador 3D de combate de robôs, pelo critério da RoboCore | No ar |
-| Simulador de Combate | Simulador de combate de robôs, feito a partir do motor da Oficina de Combate | Em desenvolvimento |
+| [Arena WickedBotz](https://arena.wickedbotz.com.br) | Simulador de combate de robôs, feito a partir do motor da Oficina de Combate | No ar |
 | [UniTask](https://unitask.escalada.dev) | Organizador do aluno: notas, Kanban, agenda, frequência e avisos | No ar |
 | [CronoAula](https://cronoaula.escalada.dev) ([código](https://github.com/manfredjr/cronoaula)) | Cronômetro de aula que fica por cima de qualquer apresentação, para Windows e navegador | Versão 1.1 |
 | [ChamaAula](https://chamaaula.escalada.dev) | Chamada por QR Code, com código que muda a cada poucos segundos | No ar, usado com turmas reais |
