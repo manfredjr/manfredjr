@@ -2,7 +2,7 @@
 
 **Empresário e professor.** Trabalho com software, infraestrutura de TI, robótica e educação em tecnologia.
 
-Comecei em TI em 1997 e dou aula desde 2005. Foram 259 turmas em 50 disciplinas, com 6.474 matrículas e 17.805 horas de aula. Hoje meu tempo se divide entre a minha empresa, a equipe de robótica que coordeno, um evento de robótica que realizamos em Santa Catarina e uma plataforma de ensino que estou construindo.
+Comecei em TI em 1997 e dou aula desde 2005. Foram 259 turmas em 50 disciplinas, com 6.474 matrículas e 17.805 horas de carga horária. Hoje meu tempo se divide entre a minha empresa, a equipe de robótica que coordeno, um evento de robótica que realizamos em Santa Catarina e uma plataforma de ensino que estou construindo.
 
 ## MT - Manfred Tecnologia
 
