@@ -25,7 +25,7 @@ A família MAP saiu do trabalho de campo: são as ferramentas que uso no suporte
 | [MapDisk](https://mapdisk.manfred.com.br) ([código](https://github.com/manfredjr/mapdisk)) | Análise de espaço em disco, com gráficos, duplicados, arquivos antigos e ações de mover e enviar para a Lixeira | Versão 1.0 |
 | [MapHard](https://maphard.manfred.com.br) ([código](https://github.com/manfredjr/maphard)) | Hardware do computador, com alertas de saúde do disco, da memória e de compatibilidade com o Windows 11 | Versão 1.0 |
 | [MapCache](https://mapcache.manfred.com.br) | Mede e limpa o cache do Windows com segurança | Versão 0.1, lançada em novembro |
-| MapDesk | Acesso remoto para o suporte, derivado do RustDesk | Em preparação para a publicação |
+| [MapDesk](https://mapdesk.manfred.com.br) ([código](https://github.com/manfredjr/mapdesk-mt)) | Acesso remoto para o suporte, derivado do RustDesk | No ar, versão 1.5.0-mt.1 (pré-versão) |
 | MapHub | Painel para gerenciar os computadores dos clientes, integrado ao MapDesk, ao Inventário e ao Helpdesk | Em especificação |
 | MapTools | Diagnóstico completo para o suporte, reunindo MapNet, MapDisk, MapHard e MapCache | Em especificação |
 | Firewall MT | Firewall sobre Debian, instalado na rede do cliente | Em especificação |
