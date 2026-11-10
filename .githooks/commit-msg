@@ -8,7 +8,7 @@ if sed -e 's/CLAUDE\.md//g' -e 's#\.claude/##g' "$1" \
    | grep -qiE "$credito|gerado com|claude|anthropic"; then
   echo "COMMIT RECUSADO: a mensagem credita ferramenta de IA (rodape de coautoria, 'Gerado com' ou o nome da ferramenta)." >&2
   echo "Regra matriz 1: autor Manfred Heil Junior, titular MANFRED TECNOLOGIA LTDA. Tire essas linhas e refaca o commit." >&2
-  echo "Commit com -v cujo diff cite a ferramenta tambem e recusado: refaca sem o -v (secao 6.1.2)." >&2
+  echo "Commit com -v cujo diff cite a ferramenta tambem e recusado: refaca sem o -v." >&2
   exit 1
 fi
 
