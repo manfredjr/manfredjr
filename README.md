@@ -2,7 +2,7 @@
 
 **Empresário e professor.** Trabalho com software, infraestrutura de TI, robótica e educação em tecnologia.
 
-Comecei em TI em 1997 e dou aula desde 2005. Nesse caminho passaram pelas minhas turmas mais de 6.000 alunos. Hoje meu tempo se divide entre a minha empresa, a equipe de robótica que coordeno, um evento de robótica que realizamos em Santa Catarina e uma plataforma de ensino que estou construindo.
+Comecei em TI em 1997 e dou aula desde 2005. Foram 259 turmas em 50 disciplinas, com mais de 6 mil matrículas. Hoje meu tempo se divide entre a minha empresa, a equipe de robótica que coordeno, um evento de robótica que realizamos em Santa Catarina e uma plataforma de ensino que estou construindo.
 
 ## MT - Manfred Tecnologia
 
@@ -74,7 +74,7 @@ A edição de 2025, em Balneário Piçarras, teve 642 participantes, 80 equipes 
 
 [escalada.dev](https://escalada.dev)
 
-É o projeto em que mais me reconheço, e é um produto que desenvolvo desde 2026. A base dele são os 21 anos que passei em sala de aula: o que funcionou com milhares de alunos, os pontos em que eles costumam travar e as atividades que fazem o conteúdo pegar. Escalada.dev transforma essa experiência em uma plataforma para que um jovem saia do primeiro contato com a tecnologia e chegue a um nível profissional.
+É o projeto em que mais me reconheço, e é um produto que desenvolvo desde 2026. A base dele são os 21 anos que passei em sala de aula: o que funcionou em centenas de turmas, os pontos em que os alunos costumam travar e as atividades que fazem o conteúdo pegar. Escalada.dev transforma essa experiência em uma plataforma para que um jovem saia do primeiro contato com a tecnologia e chegue a um nível profissional.
 
 O produto reúne simuladores, conteúdos e dinâmicas de programação, estruturas de dados, Internet das Coisas e robótica, além de exercícios e jogos. O aluno aprende mexendo, com teoria, experimento e problema real andando juntos. A plataforma está em desenvolvimento e recebe recursos novos a cada etapa.
 
@@ -83,7 +83,7 @@ O produto reúne simuladores, conteúdos e dinâmicas de programação, estrutur
 - Especialização em Redes de Computadores e Sistemas Distribuídos, UFSC, 2005
 - Bacharelado em Ciência da Computação, Associação Catarinense de Ensino (ACE), 2004
 - Analista de informática na Prefeitura Municipal de Joinville de 2007 a 2016, administrando redes e servidores Windows e Linux
-- Professor de tecnologia desde 2005, com aulas de programação, estruturas de dados, sistemas operacionais, redes e segurança
+- Professor de tecnologia desde 2005, com aulas de programação, estruturas de dados, sistemas operacionais, redes, segurança e Internet das Coisas
 
 ## Áreas de atuação
 
